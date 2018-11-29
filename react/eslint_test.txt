@@ -1,0 +1,13 @@
+ZhiyumatoMacBook-Pro:react zhiyuliu$ ./node_modules/.bin/eslint js
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/react/js/todoModel.js
+  8:2  error  Strings must use doublequote  quotes
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/react/js/utils.js
+   4:2   error  Strings must use doublequote  quotes
+  10:15  error  Strings must use doublequote  quotes
+  15:14  error  Strings must use doublequote  quotes
+  25:39  error  Strings must use doublequote  quotes
+
+✖ 5 problems (5 errors, 0 warnings)
+  5 errors and 0 warnings potentially fixable with the `--fix` option.

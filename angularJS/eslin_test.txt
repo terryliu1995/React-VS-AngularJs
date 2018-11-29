@@ -1,0 +1,65 @@
+ZhiyumatoMacBook-Pro:angularjs zhiyuliu$ ./node_modules/.bin/eslint js
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/angularjs/js/app.js
+   8:16  error  Strings must use doublequote  quotes
+   8:28  error  Strings must use doublequote  quotes
+   8:39  error  Strings must use doublequote  quotes
+  10:3   error  Strings must use doublequote  quotes
+  13:16  error  Strings must use doublequote  quotes
+  14:17  error  Strings must use doublequote  quotes
+  27:10  error  Strings must use doublequote  quotes
+  28:10  error  Strings must use doublequote  quotes
+  30:17  error  Strings must use doublequote  quotes
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/angularjs/js/controllers/todoCtrl.js
+   8:16  error  Strings must use doublequote                quotes
+   9:14  error  Strings must use doublequote                quotes
+  10:3   error  Strings must use doublequote                quotes
+  14:20  error  Strings must use doublequote                quotes
+  17:17  error  Strings must use doublequote                quotes
+  18:36  error  Strings must use doublequote                quotes
+  24:14  error  Strings must use doublequote                quotes
+  25:56  error  Strings must use doublequote                quotes
+  26:38  error  Strings must use doublequote                quotes
+  27:40  error  Strings must use doublequote                quotes
+  28:1   error  Expected indentation of 5 tabs but found 4  indent
+  44:23  error  Strings must use doublequote                quotes
+  60:18  error  Strings must use doublequote                quotes
+  60:49  error  Strings must use doublequote                quotes
+  80:23  error  Strings must use doublequote                quotes
+  80:31  error  Strings must use doublequote                quotes
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/angularjs/js/directives/todoEscape.js
+   7:16  error  Strings must use doublequote  quotes
+   8:13  error  Strings must use doublequote  quotes
+   9:3   error  Strings must use doublequote  quotes
+  14:14  error  Strings must use doublequote  quotes
+  20:14  error  Strings must use doublequote  quotes
+  21:17  error  Strings must use doublequote  quotes
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/angularjs/js/directives/todoFocus.js
+  7:16  error  Strings must use doublequote  quotes
+  8:13  error  Strings must use doublequote  quotes
+  9:3   error  Strings must use doublequote  quotes
+
+/Users/zhiyuliu/Desktop/courses/csc510/comparision/angularjs/js/services/todoStorage.js
+  10:16  error  Strings must use doublequote                quotes
+  11:11  error  Strings must use doublequote                quotes
+  12:3   error  Strings must use doublequote                quotes
+  16:20  error  Strings must use doublequote                quotes
+  18:26  error  Strings must use doublequote                quotes
+  20:26  error  Strings must use doublequote                quotes
+  24:11  error  Strings must use doublequote                quotes
+  25:3   error  Strings must use doublequote                quotes
+  30:19  error  Strings must use doublequote                quotes
+  32:23  error  Strings must use doublequote                quotes
+  46:1   error  Expected indentation of 4 tabs but found 5  indent
+  47:1   error  Expected indentation of 5 tabs but found 6  indent
+  48:1   error  Expected indentation of 4 tabs but found 5  indent
+  90:11  error  Strings must use doublequote                quotes
+  91:3   error  Strings must use doublequote                quotes
+  93:20  error  Strings must use doublequote                quotes
+  99:59  error  Strings must use doublequote                quotes
+
+✖ 51 problems (51 errors, 0 warnings)
+  51 errors and 0 warnings potentially fixable with the `--fix` option.
